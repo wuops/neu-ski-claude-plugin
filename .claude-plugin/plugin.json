@@ -1,0 +1,28 @@
+{
+  "name": "neu-ski",
+  "displayName": "NEU Ski",
+  "version": "1.0.0",
+  "description": "Plan ski and snowboard trips with NEU Ski: search 185 ski resorts, open resort dashboards with slopes, lifts and elevation, and turn your dates, group, budget and priorities into a ready trip-planning brief. Public reference data, no account needed, nothing is booked.",
+  "author": {
+    "name": "Guillem Bruix Barcelo",
+    "email": "hola@guillembruix.com",
+    "url": "https://www.neuski.xyz"
+  },
+  "homepage": "https://www.neuski.xyz",
+  "repository": "https://github.com/wuops/neu-ski-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ski",
+    "snowboard",
+    "ski resorts",
+    "trip planning",
+    "travel",
+    "Pyrenees",
+    "Alps"
+  ],
+  "icon": "./assets/neu-icon.svg",
+  "documentationUrl": "https://github.com/wuops/neu-ski-claude-plugin#readme",
+  "supportUrl": "https://guillembruix.com/store/contact/",
+  "privacyPolicyUrl": "https://www.neuski.xyz/en/plugin-privacy-policy",
+  "termsOfServiceUrl": "https://www.neuski.xyz/en/plugin-terms-of-use"
+}

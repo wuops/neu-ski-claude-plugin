@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "neu-ski": {
+      "type": "http",
+      "url": "https://neu-ski-mcp.vercel.app/claude/mcp"
+    }
+  }
+}

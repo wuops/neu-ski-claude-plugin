@@ -1,0 +1,15 @@
+{
+  "name": "neu-ski",
+  "description": "NEU Ski for Claude: plan ski trips and explore 185 ski resorts.",
+  "owner": {
+    "name": "Guillem Bruix Barcelo",
+    "email": "hola@guillembruix.com"
+  },
+  "plugins": [
+    {
+      "name": "neu-ski",
+      "source": "./",
+      "description": "Plan ski and snowboard trips with NEU Ski: 185 resorts, resort dashboards and a trip-planning brief."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# macOS / Windows system files (block directory validation)
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+# iCloud conflict copies
+* 2
+* 2.*

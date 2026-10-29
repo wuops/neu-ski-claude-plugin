@@ -58,7 +58,7 @@ Argentina and Chile.
 - Hotel (Trip.com) and ski-insurance (InterMundial) links are **affiliate links**. Keep the URLs
   exactly as the tools return them, and always show the disclosure the tool provides. Mention
   other providers when they fit the user better, and respect a user who prefers another provider.
-- Discounts (Trip.com first-booking offers, the NEUSKI10 insurance code) are conditional. Say the
-  user must check eligibility and conditions; never promise they apply.
+- Don't promote these links or claim discounts or offers. Mention them only where they help the user's
+  plan, and say prices and terms must be checked with the provider.
 - 3D maps, webcams and snowfall forecasts are on the resort's NEU page (`links.neuPage`), not in
   the chat.

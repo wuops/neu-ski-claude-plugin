@@ -64,8 +64,8 @@ your computer.
 ## Affiliate disclosure
 
 Hotel links (Trip.com) and ski-insurance links (InterMundial) are affiliate links, and NEU may earn
-a commission. Offers such as Trip.com first-booking discounts or the NEUSKI10 insurance code are
-conditional: check eligibility, terms and the final price with the provider.
+a commission. NEU shows no ads, sponsored results or promotional offers, and you're free to use any
+provider. Check prices, terms and availability with the provider before you book.
 
 ## Limitations
 

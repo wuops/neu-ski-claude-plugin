@@ -55,8 +55,8 @@ In Claude Code you can also install it from this repository:
   official website, Trip.com hotel search (through `trip.tpo.li`), InterMundial ski insurance and
   the NEU app on the App Store. If you chose travel dates, the Trip.com link includes your check-in
   and check-out dates, and nothing else from your preferences.
-- **Policies:** see the privacy policy (https://www.neuski.xyz/en/plugin-privacy-policy) and the
-  terms of use (https://www.neuski.xyz/en/plugin-terms-of-use).
+- **Policies:** see the privacy policy (https://www.neuski.xyz/en/claude-privacy-policy) and the
+  terms of use (https://www.neuski.xyz/en/claude-terms-of-use).
 
 The plugin itself contains only these instructions and the connector address. It runs no code on
 your computer.

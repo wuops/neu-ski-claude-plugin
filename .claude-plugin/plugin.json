@@ -23,6 +23,6 @@
   "icon": "./assets/neu-icon.svg",
   "documentationUrl": "https://github.com/wuops/neu-ski-claude-plugin#readme",
   "supportUrl": "https://guillembruix.com/store/contact/",
-  "privacyPolicyUrl": "https://www.neuski.xyz/en/plugin-privacy-policy",
-  "termsOfServiceUrl": "https://www.neuski.xyz/en/plugin-terms-of-use"
+  "privacyPolicyUrl": "https://www.neuski.xyz/en/claude-privacy-policy",
+  "termsOfServiceUrl": "https://www.neuski.xyz/en/claude-terms-of-use"
 }
